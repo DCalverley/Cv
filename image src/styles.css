@@ -23,3 +23,7 @@ hr
 
         color: #66BFBF;
       }
+.circular{
+
+        border-radius: 100%;
+      }
