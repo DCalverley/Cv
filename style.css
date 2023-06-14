@@ -1,3 +1,9 @@
+img {
+
+    background-color: #FBFFDC;
+
+}
+
 body { 
     background-color: #FBFFDC
 }
@@ -18,4 +24,9 @@ hr
       h3 {
 
         color: #66BFBF;
+      }
+
+      .circular{
+
+        border-radius: 80px;
       }
